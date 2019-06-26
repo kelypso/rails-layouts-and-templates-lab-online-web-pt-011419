@@ -4,6 +4,6 @@ class StoreAdminController < ApplicationController
   def home
   end
 
-  def orders 
+  def orders
   end
 end
